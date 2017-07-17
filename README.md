@@ -22,3 +22,30 @@
 4. this
 5. Overload resolution
 6. Extension methods
+
+# .NET Basics
+1. String vs StringBuilder
+2. ToString and Parse
+3. Format .
+4. TimeSpan
+5. DateTime and DateTimeOffset
+6. Equality comparison (== and !=, virtual Equals, IEquatable)
+7. Order comparison (IComparable<T>, > and <)
+
+# Exception Handling. Logging. NLog.
+1. try catch finally block
+2. Exceptions generation
+3. System.Exception class and exception types
+4. Logging
+5. NLog
+
+# Delegates. Lambdas and Events.
+1. Delegates
+2. Multicast delegates
+3. Generic delegates (Func and Action)
+4. Events
+5. EventArgs
+6. Lambdas
+7. Anonymous methods
+
+
